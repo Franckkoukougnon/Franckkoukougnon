@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/Franckkoukougnon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franckkoukougnon&langs_count=10&hide=html,javascript,css" alt=Franckkoukougnon's github stats"></a>
+  <a href="https://github.com/Franckkoukougnon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franckkoukougnon&langs_count=10&hide=" alt=Franckkoukougnon's github stats"></a>
 </p>
 
 
