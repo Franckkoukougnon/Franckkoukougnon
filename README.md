@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi there 👋</h1>
 
 <p align="center">
-  <a href="https://github.com/Franckkoukougnon"><img src=https://github-readme-stats.vercel.app/api/?username=Franckkoukougnon&show_owner&count_private=true" alt="Franckkoukougnon's github stats"></a>
+  <a href="https://github.com/Franckkoukougnon"><img src=https://github-readme-stats.vercel.app/api/?username=Franckkoukougnon&show_owner&count_public=true" alt="Franckkoukougnon's github stats"></a>
 </p>
 
 <p align="center">
