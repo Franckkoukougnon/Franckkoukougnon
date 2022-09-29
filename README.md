@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-
+<!--
 **Franckkoukougnon/Franckkoukougnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
+ --> 
 
 <h1 align="center">Hi there 👋</h1>
 
@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center">
-  <a href="https://github.com/Franckkoukougnon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franckkoukougnon&langs_count=10&hide=" alt=Franckkoukougnon's github stats"></a>
+  <a href="https://github.com/Franckkoukougnon"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Franckkoukougnon&langs_count=20&hide=" alt=Franckkoukougnon's github stats"></a>
 </p>
 
 
